@@ -8,7 +8,7 @@
 
 С зажатой клавишой Shift
 
-![С зажатой клавишой Shift](https://docs.google.com/1obvj60biehmk5SxUcHvfzCjLFoz3o7su) 
+![С зажатой клавишой Shift](https://docs.google.com/uc?id=1obvj60biehmk5SxUcHvfzCjLFoz3o7su) 
 
 С зажатыми клавишами Alt+Ctrl
 
